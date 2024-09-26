@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(235, 137, 137);
+}
+#occean {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 11px;
+    grid-row-gap: 10px;
+    }
+    .occean-img{
+        width: 100%;
+        height: 50%;
+    }
+    
+    .form-place id{
+        border-radius: 30px;
+
+    }
