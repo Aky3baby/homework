@@ -30,6 +30,7 @@ async function fetchUrl() {
         Oceanimage.setAttribute('alt', photo.photographer);
          occeanDiv.appendChild(Oceanimage)
          Oceanimage.classList.add('occean-img');
+         
 
         document.querySelector('#occean').appendChild(occeanDiv);
 
